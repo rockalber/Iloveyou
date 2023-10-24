@@ -1,0 +1,13 @@
+.CenterDiv{
+    margin-top: 4%;
+    /* margin: auto; */
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+    align-items: center;
+}
+.h1{
+    color:"red";
+    text-align: center;    
+}
